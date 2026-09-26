@@ -1,0 +1,11 @@
+{
+  "title": "CamTourism - Explore the Kingdom of Wonder",
+  "description": "Discover Cambodia - Explore cultural heritage, ancient temples, tropical islands, pristine waterfalls, and ecotourism across all 25 provinces.",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
